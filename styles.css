@@ -114,6 +114,8 @@ nav ul li a:hover, nav ul li a.active {
 /* Helper spacing class */
 .button-container-center {
     margin: 2rem 0;
+    display: flex;          /* 💡 Add this */
+    justify-content: center; /* 💡 Add this */
 }
 
 /* About Us Custom Classes */
