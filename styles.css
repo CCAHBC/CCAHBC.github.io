@@ -73,6 +73,7 @@ nav ul li a:hover, nav ul li a.active {
     text-align: center;
     margin-bottom: 2rem;
     border-left: 6px solid #000000; /* Black accent indicator border */
+    overflow: clip;
 }
 
 .hero-section h1 {
